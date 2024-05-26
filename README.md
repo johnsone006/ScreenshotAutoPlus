@@ -7,4 +7,6 @@ Tips for best results:
       - Make the viewport in NifSkope smaller by making the panels I mentioned in number 2 wider
       - Clear space on the drive of the save folder you picked.
       - Pick a different drive.
-4. Unless you are trying to continue where you left off after pressing the cancel button, it is best to pick a save folder that is empty. If you are trying to pick up where you left off, make sure you pick the same save folder as before. Also, until all the screenshots are taken, its best to refrain from  changing the names of the screenshots or changing the extensions of any of the files. Same for the .nif files.    
+4. Unless you are trying to continue where you left off after pressing the cancel button, it is best to pick a save folder that is empty. If you are trying to pick up where you left off, make sure you pick the same save folder as before. Also, until all the screenshots are taken, its best to refrain from  changing the names of the screenshots or changing the extensions of any of the files. Same for the .nif files.
+5. Bear in mind that this program does automatically invoke menu items in nifskope, so, it is going to be difficult to do anything else on the computer while the screenshots are being taken. That's what the cancel button is for; once you are ready to continue taking screenshots, just click start again. It'll pickk up where it left off.
+6. Anything blocking the viewport of nifskope will be included in the screenshot.
